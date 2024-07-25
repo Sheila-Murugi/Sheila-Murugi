@@ -1,4 +1,10 @@
-👋 Hi there! I'm Sheila, a passionate developer with a love for crafting elegant solutions to complex problems. My journey in tech has led me to explore various domains, from web development to data science.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sheila Murugi
+======================================================================================================================================
+
+Gen AI Engineer | ML Engineer | Data Engineer
+---------------------------------------------
+
+I am a passionate developer with a love for crafting elegant solutions to complex problems. My journey in tech has led me to explore various domains, from web development to data science.
 
 🌟 Skills:
 
