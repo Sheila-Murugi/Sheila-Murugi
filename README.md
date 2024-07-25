@@ -3,12 +3,17 @@
 🌟 Skills:
 
 Languages: Python, JavaScript, HTML, CSS
+
 Frameworks: React, Node.js, Flask
+
 Tools: Git, Docker, VS Code
+
 Interests: Machine Learning, Open Source, Automation
+
 🌱 Currently Learning:
 
 Deepening my knowledge in machine learning and exploring cloud computing.
+
 🛠️ Projects:
 
 Check out my portfolio to see some of my recent work.
