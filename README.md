@@ -27,4 +27,4 @@ Check out my portfolio to see some of my recent work.
 
 Thanks for stopping by! 😊
 
-[![Sheila-Murugi's GitHub | Topics Over Time](https://stats.quira.sh/Sheila-Murugi/topics-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Sheila-Murugi)
+[![Sheila-Murugi's GitHub | Languages Over Time](https://stats.quira.sh/Sheila-Murugi/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sheila-Murugi)
